@@ -1,0 +1,1 @@
+This Online System is basically concern with Reservation and cancellation of Railway Tickets.User of this system require a Registration.after registration one can book or cancel tickets.automatic seat allocation and seat matrix are maintained by system.Administrator of this system can manage all the task generally.
